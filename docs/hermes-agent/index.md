@@ -1,7 +1,6 @@
 # Hermes Agent 实战手册
 
-> 风格参照：Codex 橙皮书  
-> 结构：入门 → 精通 → 实战  
+> 结构：入门 → 精通 → 实战
 > 写法：Case → Follow → 原理 → 进阶
 
 欢迎来到 Hermes Agent 实战手册。  
