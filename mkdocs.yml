@@ -1,0 +1,49 @@
+site_name: Handbook
+site_url: https://sujb.github.io/handbook/
+repo_url: https://github.com/sujb/handbook
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/theme-light-dark
+        name: 深色/浅色
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: zh
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|([^\d\W]\w*)'
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+nav:
+  - 首页: index.md
+  - Hermes Agent:
+      - hermes-agent/index.md
+      - hermes-agent/getting-started.md
+      - hermes-agent/first-project.md
+      - hermes-agent/skills.md
+      - hermes-agent/memory.md
+      - hermes-agent/gateway.md
+      - hermes-agent/cron.md
+      - hermes-agent/production.md
+      - hermes-agent/further-reading.md
