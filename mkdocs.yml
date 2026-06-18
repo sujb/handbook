@@ -43,7 +43,17 @@ nav:
       - hermes-agent/first-project.md
       - hermes-agent/skills.md
       - hermes-agent/memory.md
-      - hermes-agent/gateway.md
       - hermes-agent/cron.md
+      - hermes-agent/gateway.md
+      - hermes-agent/parallel.md
       - hermes-agent/production.md
       - hermes-agent/further-reading.md
+  - Antigravity:
+      - antigravity/outline.md
+      - antigravity/what.md
+      - antigravity/how-it-works.md
+      - antigravity/getting-started.md
+      - antigravity/permissions.md
+      - antigravity/creating.md
+      - antigravity/boundaries.md
+      - antigravity/appendices.md
