@@ -8,7 +8,7 @@
 
 **学习路径**
 - [§01 十分钟启动 Hermes](getting-started.md)
-- [§02 你不需要五种形态都装](getting-started.md)
+- [§02 选对你的入口](getting-started.md)
 - [§03 第一个完整项目：资料整理机器人](first-project.md)
 - [§04 把手工流程变成 Skill](skills.md)
 - [§05 让它记得你：记忆系统](memory.md)
